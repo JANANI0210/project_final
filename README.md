@@ -1,5 +1,5 @@
 # Real-time Activity Monitoring System Using Deep Learning
-he Real-time Activity Monitoring System using the YOLO (You Only Look Once) algorithm is designed to track and analyze activities in a dynamic environment. This system employs deep learning techniques to detect and classify objects, ensuring
+The Real-time Activity Monitoring System using the YOLO (You Only Look Once) algorithm is designed to track and analyze activities in a dynamic environment. This system employs deep learning techniques to detect and classify objects, ensuring
 The primary objective is to enable accurate and efficient detection and classification of objects in dynamic environments through real-time video analysis.
 
 
