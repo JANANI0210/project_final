@@ -16,11 +16,17 @@ Data-Driven Insights
 
 ### Requirements
 Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
+
 Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
+
 Deep Learning Frameworks: Yolo for model training and ultralytics to annotate the models
+
 Image Processing Libraries: OpenCV is essential for efficient image processing and gesture recognition.
+
 Version Control: Implementation of Git for collaborative development and effective code management.
+
 IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
+
 Additional Dependencies
 
 ### System Architecture
